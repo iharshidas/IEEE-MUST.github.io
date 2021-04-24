@@ -1413,13 +1413,14 @@ button:focus {
       color: #ddd; }
   #footer-Content .widget p {
     color: white;
-    font-size: 16px;
-    line-height: 32px; }
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;}
  
   #footer-Content h3.block-title {
     color: white;
     font-size: 20px;
-    font-weight: 420;
+    font-weight: 470;
     margin-bottom: 30px;
     text-align: center;}
 
