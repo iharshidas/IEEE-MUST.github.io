@@ -1394,7 +1394,7 @@ button:focus {
    ========================================================================== */
 .footer{
     background-color: #0000FF;
-    color: #ffffff;
+    color: #808080;
     text-align: center;
 }
 
@@ -1424,7 +1424,7 @@ button:focus {
 
 .footer__link:hover{
     background-color: #c0c0c0;
-    color: #ffffff;
+    color: #808080;
 }
 
 .footer__copy{
