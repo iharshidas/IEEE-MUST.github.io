@@ -1413,7 +1413,7 @@ button:focus {
 
 .footer__link{
     display: inline-flex;
-    background-color: #ffffff;
+    background-color: #808080;
     color: #FFFAFA;
     font-size: 1.1rem;
     border-radius: 50%;
@@ -1423,7 +1423,7 @@ button:focus {
 }
 
 .footer__link:hover{
-    background-color: #ffffff;
+    background-color: #c0c0c0;
     color: #ffffff;
 }
 
