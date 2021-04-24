@@ -1412,37 +1412,17 @@ button:focus {
     #footer-Content .copyright a {
       color: #ddd; }
   #footer-Content .widget p {
-    color: #e2e2e2;
+    color: white;
     font-size: 16px;
     line-height: 32px; }
-  #footer-Content .widget .subscribe-area {
-    position: relative;
-    height: 40px;
-    margin-top: 18px; }
-    #footer-Content .widget .subscribe-area input[type=email] {
-      background: #24153c;
-      border: 1px solid #fff;
-      color: #e2e2e2;
-      font-size: 14px;
-      font-style: italic;
-      height: 38px; }
-    #footer-Content .widget .subscribe-area span i {
-      position: absolute;
-      right: 0;
-      width: 60px;
-      height: 38px;
-      color: #fff;
-      top: 0;
-      background: #3ecf8e;
-      display: block;
-      padding: 9px 20px;
-      font-size: 18px;
-      border-radius: 0px 4px 4px 0px; }
+ 
   #footer-Content h3.block-title {
     color: white;
     font-size: 20px;
-    font-weight: 600;
-    margin-bottom: 30px; }
+    font-weight: 420;
+    margin-bottom: 30px;
+    text-align: center;}
+
   #footer-Content ul.menu li a {
     color: #e2e2e2;
     font-size: 16px;
