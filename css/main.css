@@ -1401,10 +1401,12 @@ button:focus {
 .footer__title{
     font-size: 1.5rem;
     margin-bottom: 1rem;
+    color: #ffffff;
 }
 
 .footer__description{
     margin-bottom: 1rem;
+    color: #ffffff;
 }
 
 .footer__social{
